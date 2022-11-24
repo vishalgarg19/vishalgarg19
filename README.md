@@ -2,7 +2,7 @@
 
 ### Hi, I'm Vishal garg! (Coder from Rajasthan , India). I love to solve complex problems which makes me think beyond my limits 🧠
 
-### I want to become a Software Engineer and hence currently I'm improving my algorithmic skills on different competitive programming platforms.
+### I am a Software Engineer and hence currently I'm improving my algorithmic skills on different competitive programming platforms.
 
 ### I've also worked on Javascript, framework like Node.js, express.js and database MySQl, MongoDB 💻.
 
