@@ -4,7 +4,7 @@
 
 ### I am a Software Engineer and hence currently I'm improving my algorithmic skills on different competitive programming platforms.
 
-### I've also worked on Javascript, framework like Node.js, express.js and database MySQl, MongoDB 💻.
+### I've also worked on Javascript, framework like ReactJs, Node.js, express.js and database MySQl, MongoDB 💻.
 
 ### Beside's developing stuff, I play Cricket, Watching movies, learn new technologies and love travelling 🏝️🗻.
 
@@ -16,4 +16,4 @@
 ### 📫 How to reach me? Leave a mail: Vishalgargpec@gmail.com
  
 
-### Languages and Tools: Javascript Node.js expressjs MySQL MongoDB Jira  Git Visual Studio Code
+### Languages and Tools: Javascript Reactjs Node.js expressjs MySQL MongoDB Jira  Git Visual Studio Code
